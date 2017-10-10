@@ -1,7 +1,7 @@
 # FPGAmbiarra
 
 ## Componentes
-Vai entender ¬¬
+Vai entender Â¬Â¬
 ### Microcontrolador: ESP8266
 ![](./nodemcu.png)
 
@@ -18,7 +18,7 @@ TODO
 TODO
 ```
 
-### Comunicação serial: Windows/Linux/Mac API
+### ComunicaÃ§Ã£o serial: Windows/Linux/Mac API
 ```
 TODO
 ```
@@ -27,7 +27,7 @@ TODO
 Requisitos para rodar toda a stack de coisas nesse projeto
 
 - ISE Design
-- Muita paciência
+- Muita paciÃªncia
 - FPGA Spartan 6 conforme a imagem acima
 - Microcontrolador ESP8266 conforme a imagem acima
 - Java/Spark/PostgreSQL
@@ -36,5 +36,5 @@ Requisitos para rodar toda a stack de coisas nesse projeto
 ## Membros
 
 - Bruno V. Costa
-- Bruno B. Lerner
-- Lucas Ricarte
+- [Bruno B. Lerner](https://github.com/BrunoLerner)
+- [Lucas Ricarte](https://github.com/lucasrrt)
